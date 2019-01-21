@@ -2,7 +2,7 @@
   "name": "exchange-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xomyaq.github.io",
+  "homepage": "https://xomyaq.github.io/exchange-app/",
   "dependencies": {
     "@types/jest": "23.3.12",
     "@types/node": "10.12.18",
